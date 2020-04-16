@@ -1,0 +1,17 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-04-16T00:06:02Z",
+  "id": "src",
+  "duration": 16,
+  "title": "Google Codelabs",
+  "summary": "Summary of your codelab that is human readable",
+  "source": "google.md",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "url": "src"
+}
